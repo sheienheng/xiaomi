@@ -13,7 +13,7 @@
         height: 60px;right: 1rem;bottom:2rem;z-index: 999">
           <img src="/static/pro/-30.png" alt="" style="width: 100%;">
         </div>
-        <div class="icon-img" style="left: 1px">
+        <div class="icon-img" style="left: 1rem">
           <router-link to="/classity" slot="left">
             <i class="el-icon-arrow-left"></i>
           </router-link>
